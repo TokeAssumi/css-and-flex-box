@@ -1,0 +1,14 @@
+
+h1 {
+    color: rgb(0, 0, 0);
+ }
+
+ * {
+    border: solid;
+}
+.header{
+    background-color: aqua;
+    display:flex;
+    justify-content: space-between;
+}
+        
